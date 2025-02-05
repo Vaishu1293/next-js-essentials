@@ -1,4 +1,5 @@
 export default function Home() {
+  console.log("This is server component..");
   return (
     <main>
       <img src="/logo.png" alt="A server surrounded by magic sparkles." />
